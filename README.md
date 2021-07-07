@@ -1,8 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Edwin Palacios</h1>
+
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+developer;%2B7+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
+</p>
+
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+developer;%2B7+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinpalacios&label=Profile%20views&color=0e75b6&style=flat" alt="edwinpalacios" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_edwinpalacios" target="blank"><img src="https://img.shields.io/twitter/follow/_edwinpalacios?logo=twitter&style=for-the-badge" alt="_edwinpalacios" /></a> </p>

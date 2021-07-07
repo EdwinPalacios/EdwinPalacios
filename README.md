@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Edwin Palacios</h1>
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+developer;%2B7+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+developer;%2B7+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
 

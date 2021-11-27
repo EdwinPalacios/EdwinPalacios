@@ -4,7 +4,9 @@
 
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
 
-
+<div align="center">
+  <a href="https://app.daily.dev/StreetNymous"><img src="https://api.daily.dev/devcards/942347205fc54018b79edc49467b5dc2.png?r=jzj" width="400" alt="Edwin Palacios's Dev Card"/></a>
+</div>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinpalacios&label=Profile%20views&color=0e75b6&style=flat" alt="edwinpalacios" /> </p>
 
